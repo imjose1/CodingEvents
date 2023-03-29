@@ -12,7 +12,4 @@
   <ItemGroup>
     <None Remove="Views\Events\" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Views\Events\" />
-  </ItemGroup>
 </Project>
